@@ -2,7 +2,7 @@
 #### Web Developer
 ![Web Developer](https://github.com/rashedulblog/rashedul/blob/main/Md.%20Rashedul%20Islam.jpg)
 
-I like to learn new skills. Now learning JavaScript & PHP. Full and fresh hand code is my power. Client satisfaction is my first priority.
+I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created several websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include React JS, JavaScript as well as PHP.
 
 Skills: REACT / JS / HTML / CSS / PHP / SEO
 
