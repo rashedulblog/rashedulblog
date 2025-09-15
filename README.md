@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Md. Rashedul Islam
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://github.com/rashedulblog/rashedul/blob/main/Md.%20Rashedul%20Islam.jpg)
+#### Web Developer
+![Web Developer](https://github.com/rashedulblog/rashedul/blob/main/Md.%20Rashedul%20Islam.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I like to learn new skills. Now learning JavaScript & PHP. Full and fresh hand code is my power. Client satisfaction is my first priority.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / PHP / SEO
 
 - 🔭 I’m currently working on Rashedulblog 
 - 🌱 I’m currently learning PHP 
